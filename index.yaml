@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  loki:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-10-29T13:05:37.763523594+02:00"
+    description: A Helm chart for Kubernetes
+    digest: f12f6c7b4a7983eae566dea9ac7619635312f9ff24edf8480e9a1f14dceb9e65
+    name: loki
+    urls:
+    - https://github.com/Sophiakorginska/loki-cluster/releases/download/loki-0.1.0/loki-0.1.0.tgz
+    version: 0.1.0
+  loki-with-authentication:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-10-29T13:05:38.213052984+02:00"
+    description: A Helm chart for Kubernetes
+    digest: a044ce05082259c4fe1851ce8b71480cf984dd75ffea81e2534c6fda59aaf6fe
+    name: loki-with-authentication
+    urls:
+    - https://github.com/Sophiakorginska/loki-cluster/releases/download/loki-with-authentication-0.1.0/loki-with-authentication-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-10-29T13:05:37.494636416+02:00"
