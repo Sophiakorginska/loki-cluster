@@ -1,6 +1,6 @@
 # loki-cluster
 
-To add repository in Helm:
+To add repository in Helm:  
   `helm repo add loki-cluster https://sophiakorginska.github.io/loki-cluster/`  
   `helm update`  
  
